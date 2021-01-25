@@ -385,27 +385,31 @@ http://selevision9894-i.akamaihd.net/hls/live/219358/98941/2.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/jj/jordan_tv_jo.png" group-title="Jordan",Jordan TV
 http://selevision9884-i.akamaihd.net/hls/live/219256/98840/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-majlis-tv-kw.png" group-title="kuwait",KTV Al Majlis HD
-https://live.hibridcdn.net/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_1080p/chunks.m3u8
+https://kwmedia.hibridmedia.com/kwmedia/kwtvmajlis_dabr/kwmedia/kwtvmajlis_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv_1.png" group-title="kuwait",kuwait 1 HD
-https://live.hibridcdn.net/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8
+https://kwmedia.hibridmedia.com/kwmedia/kwtv1_dabr/kwmedia/kwtv1_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv_2.png" group-title="kuwait",kuwait 2 HD
-https://live.hibridcdn.net/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8
+https://kwmedia.hibridmedia.com/kwmedia/kwtv2_dabr/kwmedia/kwtv2_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv_al_qurain.png" group-title="kuwait",kuwait Al Qurain HD
-https://live.hibridcdn.net/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_1080p/chunks.m3u8
+https://kwmedia.hibridmedia.com/kwmedia/kwtvqurain_dabr/kwmedia/kwtvqurain_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/kuwait-kids-kw.png" group-title="kuwait",kuwait KIDS HD
-https://live.hibridcdn.net/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
+https://kwmedia.hibridmedia.com/kwmedia/kwtvkids_dabr/kwmedia/kwtvkids_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv_sport.png" group-title="kuwait",KTV Sport HD
-https://live.hibridcdn.net/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsports_dabr/kwmedia/kwtvsports_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv-sport-plus-kw.png" group-title="kuwait",KTV Sport Plus HD
-https://live.hibridcdn.net/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8
+https://kwmedia.hibridmedia.com/kwmedia/kwtvsportsplus_dabr/kwmedia/kwtvsportsplus_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv_al_araby.png" group-title="kuwait",KTV Arabe HD
-https://live.hibridcdn.net/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8
+https://kwmedia.hibridmedia.com/kwmedia/kwtvarabi_dabr/kwmedia/kwtvarabi_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/kk/ktv_al_ethraa.png" group-title="kuwait",KTV Ethraa
-https://live.hibridcdn.net/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8
+https://kwmedia.hibridmedia.com/kwmedia/kwtvethraa_dabr/kwmedia/kwtvethraa_1080p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/alrai_tv.png" group-title="kuwait",Alrai TV HD
 http://stream02.fasttelco.net/4/pub/asset/28/streams.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_shahed_tv_kw.png" group-title="kuwait",Al Shahed TV
 http://xalshahedkwx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_shahed_tv_kw.png" group-title="kuwait",Al Adalah TV
+https://gulfsat.cdn.easybroadcast.fr/live/Aladalah_abr/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_shahed_tv_kw.png" group-title="kuwait",FunoonHd TV
+https://gulfsat.cdn.easybroadcast.fr/live/FunoonHd_abr/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/bb/bahrain_tv_international.png" group-title="AL Bahrain",AL Bahrain TV
 http://selevision9888-i.akamaihd.net/hls/live/219299/98883/1.m3u8
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/aa/al_dafrah_tv_ae.png" group-title="UAE",Al Dafrah TV HD
