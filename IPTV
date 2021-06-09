@@ -15,8 +15,12 @@ http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
 http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/93px-Pornproject_logo.svg.png" group-title="XXX",Sex TV 2 HD
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/93px-Pornproject_logo.svg.png" group-title="XXX",Sex TV 2 HD
-http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tring_desire.png" group-title="XXX",X Desire
+http://185.226.88.3:1036/live/backup/backup/7.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tring_bunga_bunga.png" group-title="XXX",X Bunga Bunga
+http://185.226.88.3:1036/live/backup/backup/8.m3u8
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tring_bizarre.png" group-title="XXX",X Bizarre
+http://185.226.88.3:1036/live/backup/backup/9.m3u8
 
 
 
