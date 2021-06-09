@@ -23,7 +23,7 @@ http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_164_8_3_130000_0_0_0.png" group-title="XXX",Brazzers TV Europe
 http://50.7.222.90:8081/brazzers_eu/index.m3u8?wmsAuthSign=8711e2a3cf4c5850eb727140ef7cebc3-1623227693-67i902i93i73
-#EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_164_8_3_130000_0_0_0.png" group-title="XXX",Brazzers TV Europe
+#EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_164_8_3_130000_0_0_0.png" group-title="XXX",Brazzers TV
 http://50.7.222.90:8081/brazzers_eu/tracks-1,2/index.m3u8?wmsAuthSign=e83013175e1fdc66d1019ad5cb13003f-1623229494-67i902i93i73
 #EXTINF:-1 tvg-logo="https://antifriz.tv/storage/images/channel_logos/redlight-hd.png" group-title="XXX",Redlight HD
 http://50.7.222.90:8081/redlight/index.m3u8?wmsAuthSign=e46b06450ce21e1276b882afdbd6b579-1623229678-67i902i93i73
