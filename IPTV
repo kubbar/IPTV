@@ -9,6 +9,9 @@ https://www.ast.tv/stream/2/master.m3u8
 http://185.96.176.139:8080/superone/index.m3u8
 #EXTINF:-1 tvg-logo="http://www.thedesignpartnership.co.uk/logos/adult/dorcelhd.png" group-title="XXX",Dorcel TV HD
 http://188.35.9.11:21141/udp/214h
+#EXTINF:-1 tvg-logo="https://wp20-images-cz-dynamic.horizon.tv/Logos/Extasy_HD.f.png" group-title="XXX",Extasy TV HD
+http://213.151.233.20:8000/dna-6233-tv-pc/hls/4004v105.m3u8
+ 
  
 #EXTINF:-1 tvg-logo="http://erotix-tv.com/images/Brazzers.png" group-title="XXX",Brazzers TV Europe
 http://50.7.222.90:8081/brazzers_eu/index.m3u8?wmsAuthSign=8711e2a3cf4c5850eb727140ef7cebc3-1623227693-67i902i93i73
