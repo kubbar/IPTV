@@ -12,7 +12,7 @@ http://www.filmon.com/vr-streams/6170.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BWk0n-B_nS8/XeppI2qLU4I/AAAAAAAAISk/rUPmd8sSP8Qiyi8Td_rV61sYNPAYuQizwCLcBGAsYHQ/s640/filmon-logo-703x194.png" group-title="XXX",Filmon TV 2
 https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/93px-Pornproject_logo.svg.png" group-title="XXX",Sex TV 1 HD
-http://51.15.0.141:88/redlightHD/tracks-v1a1/mono.m3u8
+http://51.15.0.141:88/redlightHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/93px-Pornproject_logo.svg.png" group-title="XXX",Sex TV 2 HD
 http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
 
