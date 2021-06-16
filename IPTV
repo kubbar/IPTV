@@ -59,6 +59,8 @@ http://37.235.200.88:81/udp/225.50.70.7:1234
 http://37.235.200.88:81/udp/225.50.70.4:1234
 #EXTINF:-1 tvg-logo="http://erotix-tv.com/images/russkaya-noch.png" group-title="XXX",Русская ночь
 http://93.189.224.117:9030/russkayanoch
+#EXTINF:-1 tvg-logo="http://www.skylarkrussia.tv/upload/medialibrary/a6d/logo.png" group-title="XXX",nuart TV
+http://185.183.34.118/iptv/YSZEBB3QYC3TXF/9071/index.m3u8
  
  
  
