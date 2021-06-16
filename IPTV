@@ -14,13 +14,17 @@ https://www.filmon.com/vr-streams/6152.high/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/93px-Pornproject_logo.svg.png" group-title="XXX",Sex TV 1 HD
 http://51.15.0.141:88/redlightHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Pornproject_logo.svg/93px-Pornproject_logo.svg.png" group-title="XXX",Sex TV 2 HD
-http://51.15.0.141:88/hustlerhd/tracks-v1a1/mono.m3u8
+http://51.15.0.141:88/hustlerhd/index.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://uc71d06595e9d6b832e56c1add73.previews.dropboxusercontent.com/p/thumb/ABPgbEa_NrMaAbflaTJq3pLqZZbBZhOUwsgctQDjuIDwBM8kraPnTqZmnZ-GjM1gr6ep5381yCVLwqok827rbU_fUhydSqc22CutmYDBmbuFG4POISEe420WXG_g_7VU-K1lRUTD16TnGaaVXo_LcSdlxzAiydyMMqkR5v2-8unbwKRpHKrBdrE3dUBZz8tq_vYfKBEaTM_cceY9-LC5sc46xoD88d6TuEROJL1OYtYmYkTvIgbz9xjvN2cI3WyB3IZYtgUIMYhRFl0ypL8kCzxS89XWrcqvbO36BaRpuh7XDRYyMiQb0RQjJ85lcBWBRkHpgLaYAIomZk2lmBnNGcjDftg_UUkw-gQpPphqSMiGqJqILT7j62pHDHFgOpTuw-DnYJgSrkwyRdMznA43nLAm/p.png" group-title="XXX",SuperOne
 http://185.96.176.139:8080/superone/index.m3u8
-#EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_158_8_3_130000_0_0_0.png" group-title="XXX",Dorcel TV HD
+#EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_158_8_3_130000_0_0_0.png" group-title="XXX",Dorcel TV HD 1
 http://188.35.9.11:21141/udp/214h
+#EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_158_8_3_130000_0_0_0.png" group-title="XXX",Dorcel TV HD 2
+http://185.183.34.118/iptv/YSZEBB3QYC3TXF/9064/index.m3u8
+#EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_158_8_3_130000_0_0_0.png" group-title="XXX",Dorcel TV HD 3
+http://185.183.34.118/iptv/YSZEBB3QYC3TXF/9067/index.m3u8
 #EXTINF:-1 tvg-logo="https://wp20-images-cz-dynamic.horizon.tv/Logos/Extasy_HD.f.png" group-title="XXX",Extasy TV HD
 http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
 
@@ -40,11 +44,13 @@ http://50.7.222.90:8081/brazzers_eu/index.m3u8?wmsAuthSign=8711e2a3cf4c5850eb727
 #EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_164_8_3_130000_0_0_0.png" group-title="XXX",Brazzers TV
 http://50.7.222.90:8081/brazzers_eu/tracks-1,2/index.m3u8?wmsAuthSign=e83013175e1fdc66d1019ad5cb13003f-1623229494-67i902i93i73
 #EXTINF:-1 tvg-logo="https://antifriz.tv/storage/images/channel_logos/redlight-hd.png" group-title="XXX",Redlight HD
-http://50.7.222.90:8081/redlight/index.m3u8?wmsAuthSign=e46b06450ce21e1276b882afdbd6b579-1623229678-67i902i93i73
+http://185.183.34.118/iptv/YSZEBB3QYC3TXF/9066/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c0/HUSTLER_TV_HD.png" group-title="XXX",Hustler HD
-http://50.7.222.90:8081/hustlerhd/index.m3u8?wmsAuthSign=4c6e680dc2e28a7fa5b296df37d6a388-1623229128-67i902i93i73
-#EXTINF:-1 tvg-logo="https://teleprogramma.tv/images/o-la-la.png" group-title="XXX",O-la-la
-http://50.7.222.90:8081/olala/index.m3u8?wmsAuthSign=2ed10faab8ffc966f0458e113dcd0a74-1623228789-67i902i93i73
+http://185.183.34.118/iptv/YSZEBB3QYC3TXF/9065/index.m3u8
+#EXTINF:-1 tvg-logo="https://teleprogramma.tv/images/o-la-la.png" group-title="XXX",O-la-la 1
+http://193.33.240.8:8080/o-la-la/index.m3u8
+#EXTINF:-1 tvg-logo="https://teleprogramma.tv/images/o-la-la.png" group-title="XXX",O-la-la 2
+http://185.183.34.118/iptv/YSZEBB3QYC3TXF/9068/index.m3u8
 #EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_156_8_3_130000_0_0_0.png" group-title="XXX",Playboy TV
 http://50.7.222.90:8081/playboy/index.m3u8?wmsAuthSign=81fa59fa9432add0e8bf5edbbb312803-1623229214-67i902i93i73
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/originals/77/84/36/778436cc2430f1c67067cc39324523b2.png" group-title="XXX",Sextosenso
@@ -52,7 +58,7 @@ http://37.235.200.88:81/udp/225.50.70.7:1234
 #EXTINF:-1 tvg-logo="https://www.sapphiremedia.com/images/smallBarelyLegalLogo.png" group-title="XXX",Barely Legal TV
 http://37.235.200.88:81/udp/225.50.70.4:1234
 #EXTINF:-1 tvg-logo="http://erotix-tv.com/images/russkaya-noch.png" group-title="XXX",Русская ночь
-http://37.235.200.88:81/udp/225.50.70.3:1234
+http://93.189.224.117:9030/russkayanoch
  
  
  
