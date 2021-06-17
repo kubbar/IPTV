@@ -19,14 +19,10 @@ http://51.15.0.141:88/hustlerhd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://uc71d06595e9d6b832e56c1add73.previews.dropboxusercontent.com/p/thumb/ABPgbEa_NrMaAbflaTJq3pLqZZbBZhOUwsgctQDjuIDwBM8kraPnTqZmnZ-GjM1gr6ep5381yCVLwqok827rbU_fUhydSqc22CutmYDBmbuFG4POISEe420WXG_g_7VU-K1lRUTD16TnGaaVXo_LcSdlxzAiydyMMqkR5v2-8unbwKRpHKrBdrE3dUBZz8tq_vYfKBEaTM_cceY9-LC5sc46xoD88d6TuEROJL1OYtYmYkTvIgbz9xjvN2cI3WyB3IZYtgUIMYhRFl0ypL8kCzxS89XWrcqvbO36BaRpuh7XDRYyMiQb0RQjJ85lcBWBRkHpgLaYAIomZk2lmBnNGcjDftg_UUkw-gQpPphqSMiGqJqILT7j62pHDHFgOpTuw-DnYJgSrkwyRdMznA43nLAm/p.png" group-title="XXX",SuperOne
 http://185.96.176.139:8080/superone/index.m3u8
-#EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_158_8_3_130000_0_0_0.png" group-title="XXX",Dorcel TV HD 1
+#EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_158_8_3_130000_0_0_0.png" group-title="XXX",Dorcel TV HD
 http://188.35.9.11:21141/udp/214h
-#EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_158_8_3_130000_0_0_0.png" group-title="XXX",Dorcel TV HD 2
-http://185.183.34.118/iptv/YSZEBB3QYC3TXF/9064/index.m3u8
-#EXTINF:-1 tvg-logo="http://dreambox-zone.com/@Lav/picons/1.9E/1_0_1_158_8_3_130000_0_0_0.png" group-title="XXX",Dorcel TV HD 3
-http://185.183.34.118/iptv/YSZEBB3QYC3TXF/9067/index.m3u8
-#EXTINF:-1 tvg-logo="https://wp20-images-cz-dynamic.horizon.tv/Logos/Extasy_HD.f.png" group-title="XXX",Extasy TV HD
-http://213.151.233.20:8000/dna-6233-tv-pc.m3u8
+#EXTINF:-1 tvg-logo="http://satinfo24.pl/wp-content/uploads/2020/04/152302558372_logo_privatetvhd_ok1-800x445.png" group-title="XXX",Private TV HD
+188.35.9.11:21141/udp/202w
 
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tring_desire.png" group-title="XXX",X Desire
